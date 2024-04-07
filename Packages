@@ -1,0 +1,17 @@
+Package: com.sunshinesong.split-view-pro
+Version: 1.0.1-105+debug
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 1176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.sunshinesong.split-view-pro_1.0.1-105+debug_iphoneos-arm64.deb
+Size: 334488
+MD5sum: 19ffe630dbd7bc01ae487e2745316ce7
+SHA1: 23faa5057d8c87f96c70fe0f841c747e4417a659
+SHA256: a4921792f2fec959f0bf174ad3b9109290d08d2a92a98c8de2d36d84be6bcb56
+Section: Tweaks
+Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
